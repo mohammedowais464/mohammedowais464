@@ -25,5 +25,5 @@ I am a Computer Science and Engineering undergraduate at IIT Tirupati (Batch of 
 - Photography Club – Preparing for Inter-IIT Cultural Meet
 
 ### Connect
-- LinkedIn: <your-link>
+- LinkedIn: <www.linkedin.com/in/mohammed-owais-shaik-189906397>
 
