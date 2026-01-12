@@ -1,16 +1,29 @@
-## Hi there 👋
+## Hi, I'm Mohammed Owais 👋
 
-<!--
-**mohammedowais464/mohammedowais464** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Computer Science and Engineering undergraduate at IIT Tirupati (Batch of 2028), interested in software development, artificial intelligence, and building technology-driven solutions.
 
-Here are some ideas to get you started:
+### Interests
+- Software Development
+- Web and App Development
+- Artificial Intelligence and Machine Learning
+- Problem Solving and Product Building
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+- Languages: C, C++, Java, Python (basic), JavaScript, Dart
+- Development: Object-Oriented Programming, Web Development, App Development
+- Tools: Git, GitHub, VS Code, Android Studio, Firebase, Figma
+
+### Projects
+- **Enlightner** – Application that provides religious interpretations of words or sentences using references from the Quran, Bhagavad Gita, and the Bible.
+- **Digital Wellbeing** – AI-supported web platform focused on mental health monitoring and support (ongoing).
+- **Donation Management System** – Object-oriented academic project for structured application development.
+
+### Hackathons & Activities
+- **Smart India Hackathon (SIH)** – Team participant, working on an Audio Learning Model for environmental sound classification.
+- **DevDuel Hackathon** – Participated at IIT Hyderabad during Elan & ηVision, focused on rapid prototyping and teamwork.
+- Member, Cultural Council – IIT Tirupati
+- Photography Club – Preparing for Inter-IIT Cultural Meet
+
+### Connect
+- LinkedIn: <your-link>
+
